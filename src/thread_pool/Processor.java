@@ -1,4 +1,4 @@
-package demo7;
+package thread_pool;
 
 public class Processor implements Runnable{
 
